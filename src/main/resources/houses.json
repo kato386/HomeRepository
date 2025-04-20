@@ -1,0 +1,67 @@
+{
+  "homes": [
+    {
+      "type": "NORMAL_HOME",
+      "price": 250000.0,
+      "squareMeter": 120.0,
+      "numberOfRooms": 3,
+      "numberOfHalls": 1
+    },
+    {
+      "type": "NORMAL_HOME",
+      "price": 10000.0,
+      "squareMeter": 115.0,
+      "numberOfRooms": 2,
+      "numberOfHalls": 1
+    },
+    {
+      "type": "NORMAL_HOME",
+      "price": 55500.0,
+      "squareMeter": 130.0,
+      "numberOfRooms": 4,
+      "numberOfHalls": 2
+    },
+    {
+      "type": "VILLA",
+      "price": 1000000.0,
+      "squareMeter": 250.0,
+      "numberOfRooms": 5,
+      "numberOfHalls": 2
+    },
+    {
+      "type": "VILLA",
+      "price": 247000.0,
+      "squareMeter": 278.0,
+      "numberOfRooms": 6,
+      "numberOfHalls": 2
+    },
+    {
+      "type": "VILLA",
+      "price": 343000.0,
+      "squareMeter": 336.0,
+      "numberOfRooms": 4,
+      "numberOfHalls": 3
+    },
+    {
+      "type": "SUMMER_HOME",
+      "price": 279000.0,
+      "squareMeter": 210.0,
+      "numberOfRooms": 3,
+      "numberOfHalls": 1
+    },
+    {
+      "type": "SUMMER_HOME",
+      "price": 1500000.0,
+      "squareMeter": 325.0,
+      "numberOfRooms": 4,
+      "numberOfHalls": 2
+    },
+    {
+      "type": "SUMMER_HOME",
+      "price": 750000.0,
+      "squareMeter": 420.0,
+      "numberOfRooms": 6,
+      "numberOfHalls": 3
+    }
+  ]
+}
